@@ -1,3 +1,2 @@
 # java-spring-api
-rest api using spring mvc feature-1
-
+rest api using spring mvc feature1
